@@ -1,4 +1,5 @@
-ا# Fix "Invalid Currency" Error in Google Search Console (fix issue 'Invalid ISO 4217 currency code (in "offers")' )
+# Fix "Invalid Currency" Error in Google Search Console (fix issue 'Invalid ISO 4217 currency code (in "offers")' )
+
 این اسکریپت برای حل مشکل نامعتبر بودن کد واحد پولی "تومان" که در گوگل سرچ کنسول گزارش می شود آماده شده است
 این اسکریپت بدون نیاز به تغییر واحد پولی این مشکل را برای وب سایت های وردپرسی حل می کند. متن ارور گوگل کنسول:
 Invalid ISO 4217 currency code (in "offers")
