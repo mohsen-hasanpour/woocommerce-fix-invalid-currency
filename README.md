@@ -1,5 +1,6 @@
-Persian:
-این اسکریپت برای حل مشکل نامعتبر بودن کد واحد پولی "تومان" که در گوگل سرچ کنسول گزارش می شود آماده شده است. این اسکریپت بدون نیاز به تغییر واحد پولی این مشکل را برای وب سایت های وردپرسی حل می کند. متن ارور گوگل کنسول:
+ا# Fix "Invalid Currency" Error in Google Search Console (fix issue 'Invalid ISO 4217 currency code (in "offers")' )
+این اسکریپت برای حل مشکل نامعتبر بودن کد واحد پولی "تومان" که در گوگل سرچ کنسول گزارش می شود آماده شده است
+این اسکریپت بدون نیاز به تغییر واحد پولی این مشکل را برای وب سایت های وردپرسی حل می کند. متن ارور گوگل کنسول:
 Invalid ISO 4217 currency code (in "offers")
 
 🔹 ویژگی کد:
@@ -9,11 +10,11 @@ Invalid ISO 4217 currency code (in "offers")
 
   📌 نحوه استفاده:
 کپی کد های موجود در فایل main.php  در انتهاد فایل functions.php قالب وردپرس. آموزش استفاده:
+
 https://www.youtube.com/watch?v=mYg0IAMjy-Q
 
 _______________________________________________
  
-# Fix "Invalid Currency" Error in Google Search Console (fix issue 'Invalid ISO 4217 currency code (in "offers")' )
 Simple script to resolve the "Invalid currency" error in Google Search Console > Google Merchant Center. The error typically occurs due to incorrect currency codes for Iranian Toman in product feeds. The script ensures that all prices include a valid currency format, helping merchants successfully submit their feeds without issues.
 
 🔹 Features:
